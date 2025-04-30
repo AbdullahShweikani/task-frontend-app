@@ -15,20 +15,15 @@ This is a React Native app built using [Expo Router](https://expo.dev/router) th
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
 
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the App
+### 2. Start the App
 
 ```bash
 npm start
